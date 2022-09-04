@@ -1,0 +1,5 @@
+Django==1.11.29
+djangorestframework==3.9.3
+factory-boy==2.12.0
+nltk==3.7
+mock==4.0.3
